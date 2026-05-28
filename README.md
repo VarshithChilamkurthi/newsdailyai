@@ -2,6 +2,10 @@
 
 Scrape AI & dev news, generate LinkedIn posts with Groq, and browse/edit them in a React UI.
 
+## Preview
+<img width="1600" height="931" alt="image" src="https://github.com/user-attachments/assets/62e4f2f9-015d-4f81-97d6-ac9d93673f1a" />
+<img width="1620" height="945" alt="image" src="https://github.com/user-attachments/assets/6cff9f33-a548-406a-90a6-7995a69d92d1" />
+
 ## Prerequisites
 
 - Python 3.10+
