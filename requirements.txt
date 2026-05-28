@@ -1,0 +1,9 @@
+requests
+python-dotenv
+sqlalchemy
+feedparser
+groq
+fastapi
+uvicorn
+newspaper3k
+nltk
